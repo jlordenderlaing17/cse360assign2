@@ -21,6 +21,8 @@ public class Calculator {
 		total = 0;  // not needed - included for clarity
 	}
 	
+	//Darude
+	
 /**
  * Returns 0
  * <p>
