@@ -1,8 +1,8 @@
 /**
-Name: James Lord Ender Laing
-Class ID: 460
-Assignment 2
-This file is the class for a Calculator object along with its methods
+ * Name: James Lord Ender Laing
+ * Class ID: 460
+ * Assignment 2
+ * This file is the class for a Calculator object along with its methods
 */
 
 package cse360assign2;
@@ -21,8 +21,6 @@ public class Calculator {
 		total = 0;  // not needed - included for clarity
 	}
 	
-	//Darude
-	//test
 /**
  * Returns 0
  * <p>
